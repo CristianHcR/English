@@ -36,7 +36,8 @@
 ### **What is the structure?**
 **Affirmative**
 
-**(subj+ verb + ...)** except third person **(he/she/it)** of singular **(subj +  verb *+s/es* + ...)**
+- **Structure:** (subj+ verb + ...)
+- **Third person singular(he/she/it)**: (subj +  verb **+s/es** + ...)
 
 | Subject |	Verb |
 |-|-|
@@ -46,50 +47,37 @@
 |We/you/they  | read|                    
 
 
-**Verbs present simple endings**
-- Add -s for most verbs. 
-
-**Example:** work-works
-
-- Add -es for words that end in ch, -s, -sh, -x or z.
-
-**Example:** watch-watches. 
-
-- If the verbs end in consonant +y, change the y to i and add -es. 
-
-**Example:** study-studies
-
-- If the verb ends u vowel +y, don't change the y, add -s.
-
-**Example:** play-plays
-
-
+|**Verbs present simple endings**||
+|-|-|
+|Add **-s** for most verbs.| **Example:** work-work**s**|
+|Add **-es** for words that end in **ch**, **-s**, **-sh**, **-x** or **z**. | **Example:** watch-watch**es**. | 
+|If the verbs end in consonant **+y**, change the y to i and add **-es**. | **Example:** study-studi**es**|
+|If the verb ends u vowel **+y**, don't change the y, add **-s**.|**Example:** play-play**s**|
 
 || **Irregular forms**|
 |-|-|
-| **Examples**	 | Do-does, go-goes, be-am-is-are,have-has |
+| **Examples**	 | Do-do**es**, go-go**es**, be-am-is-are,have-**has** |
 
 **Negative**
 
-
-**(subj+ don`t + verb + ...)** except third person **(he/she/it)** of singular **(subj + doesn’t + verb + ...)**
+- **Structure:** (subj+ **don't** + verb + ...)
+- **Third person singular(he/she/it)**: (subj + **doesn't** +  verb + ...)
 
 | Subject |	Auxiliar |	Verb|
 |-|-|-|
-|I |	Don’t |	read |
+|I |	Don’t |	Read |
 |You |	Don’t |	Read |
 |He/she/it |	Doesn’t |	Read |
 |We/you/they |	Don’t |	Read |
 
 **Question**
 
-**(Do +subj+ verb + ...)** except third person **(he/she/it)** of singular **(Does+subj  +   verb  + ...?)**
-
-> **Important:** When we use **does** the verb don't need the **+s** or **+es**
+- **Structure:** (Do +subj+ verb + ...) 
+- **Third person singular(he/she/it)**: (Does+subj  +   verb  + ...?)
 
 | Auxiliar|	Subject| 	Verb|
 |-|-|-|
-|Do	|I |	read |
+|Do	|I |	Read |
 |Do	|You |	Read |
 |Does |	He/she/it |	Read |
 |Do	 |We/you/they |	Read |
