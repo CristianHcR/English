@@ -48,13 +48,21 @@
 
 **Verbs present simple endings**
 - Add -s for most verbs. 
+
 **Example:** work-works
+
 - Add -es for words that end in ch, -s, -sh, -x or z.
+
 **Example:** watch-watches. 
+
 - If the verbs end in consonant +y, change the y to i and add -es. 
+
 **Example:** study-studies
+
 - If the verb ends u vowel +y, don't change the y, add -s.
+
 **Example:** play-plays
+
 
 
 || **Irregular forms**|
