@@ -152,7 +152,87 @@
 |Are	 |We/you/they |	Reading |
 
 
+## **Past Simple**
+### **When use it?**
+
+1. **Sequencial actions in the past.**
+
+    - Example: First, I woke up,then, I brushed my teeth.
+
+2. **Past habits or routines.** 
+
+    - Example: Every Saturday, I went to the park. 
+
+3. **Past events in a story or narrative.**
+
+    - Example: Once upon a time, There lived a brave knight. 
+4. **Past facts or genarizations.**
+    - Example: In the past, Pluto was considered a planet. 
+
+5. **Completed actions in the past.**
+
+    - Example: He finished his homework before dinner. 
 
 
 
+
+### **How identify?**
+
+|| **Frecuency Adverbs** |
+|------|-----|
+| **How often?**| Always, usually,Sometimes, often, never, ... |
+|**Period of time**| Every day, once a month, ... |
+|**Future Clauses**| Until, When, as soon as, ... |
+
+
+### **What is the structure?**
+**Affirmative**
+
+- **Structure:** (subj+ (verb in past) + ...)
+
+
+| Subject |	Verb in past |
+|-|-|
+| I	| read|
+|You|	read|
+|He/she/it|	read|
+|We/you/they  | read|                    
+
+```
+|**Verbs present simple endings**||
+|-|-|
+|Add **-s** for most verbs.| **Example:** work-work**s**|
+|Add **-es** for words that end in **ch**, **-s**, **-sh**, **-x** or **z**. | **Example:** watch-watch**es**. | 
+|If the verbs end in consonant **+y**, change the y to i and add **-es**. | **Example:** study-studi**es**|
+|If the verb ends u vowel **+y**, don't change the y, add **-s**.|**Example:** play-play**s**|
+
+|| **Irregular forms**|
+|-|-|
+| **Examples**	 | Do-do**es**, go-go**es**, be-am-is-are,have-**has** |
+
+**Negative**
+
+- **Structure:** (subj+ **don't** + verb + ...)
+- **Third person singular(he/she/it)**: (subj + **doesn't** +  verb + ...)
+
+| Subject |	Auxiliar |	Verb|
+|-|-|-|
+|I |	Don’t |	Read |
+|You |	Don’t |	Read |
+|He/she/it |	Doesn’t |	Read |
+|We/you/they |	Don’t |	Read |
+
+**Question**
+
+- **Structure:** (**Do** +subj+ verb + ...) 
+- **Third person singular(he/she/it)**: (**Does**+subj  +   verb  + ...?)
+
+| Auxiliar|	Subject| 	Verb|
+|-|-|-|
+|Do	|I |	Read |
+|Do	|You |	Read |
+|Does |	He/she/it |	Read |
+|Do	 |We/you/they |	Read |
+
+```
 
