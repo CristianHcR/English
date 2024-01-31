@@ -234,5 +234,227 @@
 |Does |	He/she/it |	Read |
 |Do	 |We/you/they |	Read |
 
+
+### **preposition**
+
+| **Simple** | **Double** | **Compound** | **Participle** | **Disguised** | **Phrase** |
+|-|-|-|-|-|-|
+| in | into | in front of | during | notwithstanding | in front of |
+| at | upto | from across | concerning | regarding | according to |
+| for | within | according to | | given | on behalf of |
+| to | | in spite of | | | |
+| of | | alongside | | | |
+
+### **adverbs of frequency**
+
+| 100% | Always |
+|-|-|
+| 90% | Usually |
+| 80% | normally/Generally |
+| 70% | often/frequently |
+| 50% | Sometimes |
+| 30% | Occasionally |
+| 10% | Seldom |
+| 5% | Hardly ever/rarely |
+| 0% | Never |
+
+### **modal verbs**
+
+| possibility | necessity | probability | permission | obligatory | comissive | ability | volition |
+|-|-|-|-|-|-|-|-|
+| may | must | will | can | shall | shall | can | will |
+| might | | would | could | must | | could | would |
+| | | | may | need | | | shall |
+| | | | might | ought to | | | |
+| | | | shall | should | | | |
+
+
 ```
+
+## **Vocabulary**
+
+### **courtesy terms/how i may call you**
+
+| **Term** | **Definition** |
+|-|-|
+| Sir | Adult male of any age |
+| Ma’am | Adult female-north american |
+| Madam | Adult female |
+| Mr  + last name | Any man |
+| Mrs + last name | Married woman who uses her husband’s last name |
+| Ms + last name | Married woman |
+| Miss + last name | Unmarried woman |
+
+### **Family tree**
+
+| **Word** | **Meaning** |
+|-|-|
+| Parents | Padres |
+| Grandpa | Abuelo |
+| Grandma | Abuela |
+| Uncle | Tio |
+| Aunt | Tia |
+| Cousin | Primos |
+| Nephew | sobrino |
+| Niece | Sobrina |
+| Boyfriend | Novio |
+| Girlfriend | Novia |
+| Dad/Father | Padre |
+|Mum/Mother | Madre |
+| Daughter | Hija|
+| Son | Hijo |
+| Brother | Hermano |
+| Sister | Hermana|
+| Siblings| Hermanos|
+
+### **Parts of the house**
+
+| **Word** | **Meaning** |
+|-|-|
+| Garage | Garaje |
+| Bathroom | Baño con todo |
+| Toilet | Baño con bater y ya |
+| Kitchen | Cocina |
+| Living-room | Sala de estar |
+| Diving-room | Comedor |
+| Stairs | Ecaleras |
+| Bedroom | Cuarto |
+| Hall | Entrada |
+| Balcony | Balcon |
+| Den | Estudio |
+| Attic | Ático |
+|Lift | Ascensor |
+
+### **furniture of the house**
+
+| **Word** | **Meaning** |
+|-|-|
+| Oven | Horno |
+| Chimney | Chimenea |
+| Bedside-table | Mesita de noche |
+| Bed | Cama |
+| Lamp | Lampara |
+| Pillow | Almohada|
+| Cupboard | Armario |
+| Wardrobe | Armario ropa |
+| Desk | Escritorio |
+| Washing machine | Lavadora |
+| Carpet | Moqueta |
+| Rog | Alfombra |
+| Mat | Alfombrilla |
+| Countertop | Encimera |
+| Armchair | Silla con reposabrazo/Sillon |
+| Chair | Silla |
+| Bookcase | Libreria |
+| Shelf | Estanteria |
+| Sink | Fregadero |
+| Tap | Grifo |
+| Towel | Toalla |
+
+### **Stores and sites**
+
+| **Word** | **Meaning** |
+|-|-|
+| Neigborhood | Vecindario |
+| City | Ciudad |
+| Town | Municipio|
+| Block of flats/...| edficio de pisos |
+| Flats | Pisos |
+
+| Word | Meaning |
+|-|-|
+| Playground | Parque de niños |
+| Post office | Correo |
+| Train station | Estacion de tren |
+| Gym | Gimnasio |
+| Pool | Piscina |
+| Church | Iglesia |
+| boockshop | Libreria |
+| Library | Biblioteca |
+
+### **part of the body**
+
+| **Word** | **Meaning** |
+|-|-|
+| Hair | Pelo |
+| Head | Cabeza |
+| Forehead | Frente |
+| Ear | Orejas |
+| Eyes | Ojos |
+| Nose | Nariz |
+| Cheeks | Mejilla |
+| Mouth | Boca |
+| Lips | Labios |
+| Tongue | Lengua |
+| teeth/tooth | Diente/es |
+| Chin | Menton |
+| Neck | Cuello |
+| Shoulder | Hombro |
+| Arm | Brazo |
+| Forearm | Antebrazo |
+| Back | Espalda |
+| Elbow | Codo |
+| Belly | Abdomen |
+| Wrist | Muñeca|
+| Hand | Mano |
+| Thumb| Pulgar |
+| Finger | Dedos |
+| Legs | Piernas |
+| Knee | Rodilla |
+| Calf-sheen | Gemelo |
+| Uncle | Tobillo |
+|Feet/Foot | Pie/es |
+| Heel | Talon |
+|Toe | Dedos del pie|
+
+### **Descriptions of person**
+
+| **Word** | **Meaning** |
+|-|-|
+| Handsome | Guapo |
+| Pretty | Guapa |
+| Thin/Slim | Delgado |
+| Young | Joven |
+| Middle-aged | Mediana edad |
+| Tall | Alto |
+| Short | Bajo |
+| Overweight | Con sobrepeso |
+| Of average | Gordo |
+| Tiny | Bajo |
+| Lovely/Charming | Encantador |
+| Nice/Friendly | Amigable |
+
+### **Clothes**
+
+| **Word** | **Meaning** |
+|-|-|
+| T-shirt | Camiseta|
+| Shirt | Camisa |
+| Blouse | Blusa |
+| Sweater | Suéter |
+| Jacket  | Chaqueta |
+| Coat | Abrigo |
+| Jeans | Vaqueros |
+| Trousers | Pantalones |
+| Shorts | Pantalones cortos |
+| Skirt  | Falda |
+| Dress | Vestido |
+| Suit | Traje |
+| Tie | Corbata |
+| Scarf | Bufanda |
+| Hat | Sombrero |
+| Cap | Gorra |
+| Gloves | Guantes |
+| Socks | Calcetines |
+| Shoes | Zapatos |
+| Sneakers | Zapatillas |
+| Sandals | Sandalias |
+| Boots | Botas |
+| Hoodie | Sudadera con capucha |
+| Blazer | Americana |
+| Pajamas | Pijama |
+| Swimsuit | Traje de baño |
+| Underwear | Ropa interior |
+| Raincoat | Impermeable |
+| Bathrobe | Bata de baño |
 
