@@ -254,6 +254,49 @@
 | to | | in spite of | | | |
 | of | | alongside | | | |
 
+**Prepotitions of time**
+
+
+|**IN**|
+|-|
+|- **Months**  :In April
+|- **Seasons** : In the spring, In the summer, ...
+|- **Long periods** : In the ice age,in the present,in the past, ...
+|- **Centuries** : in 20th century
+|- **Decades**: In the 80s
+|- **Years**: In 1990
+|- **Parts of the day**: In the morning |
+
+ON
+
+Days 
+On Tuesday
+On Saturday
+On my birthday
+on Christmas day
+On halloween
+
+Dates
+On 15th July
+on 20th May
+On our anniversary
+
+Parts of a specific day
+On Monday morning
+On Friday evening
+On Saturday Afternoon
+
+AT
+
+Times of the day
+
+Mealtimes
+
+holidays
+
+Expressions
+
+
 
 
 ## **Modal verbs**
