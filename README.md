@@ -437,7 +437,7 @@
 |Where's the pain ?|
 |Where does it hurt?|
 
-| examples|
+|Most uses feels| examples|
 |-|-|
 | -ache(doler como subfijo)  | headache,stomache, tootache,...| 
 | hurts(doler como adjetivo) | My head hurts,my eyes hurts,...   |
