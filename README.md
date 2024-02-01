@@ -429,6 +429,21 @@
 | Shorts | Pantalones cortos | - | Shoes | Zapatos | - | Bathrobe | Bata de baño |
 | Skirt  | Falda | - | Sneakers | Zapatillas |
 
+### **10.illnesses**
+
+|Most used question |
+|-|
+|What's wrong with you?|
+|Where's the pain ?|
+|Where does it hurt?|
+
+| examples|
+|-|-|
+| -ache(doler como subfijo)  | headache,stomache, tootache,...| 
+| hurts(doler como adjetivo) | My head hurts,my eyes hurts,...   |
+| sore (doler como adjetivo) | My ears are sore, sore throat, ... |
+| irregular forms	     | My nose is runny, My kneeas keep locking, I cut my finger ...|
+
 
 
 
