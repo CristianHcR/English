@@ -225,10 +225,10 @@
 
 | Auxiliar|	Subject| 	Verb|
 |-|-|-|
-|Did	|I |	Read |
+|Did |I | Read |
 |Did |You |	Read |
 |Did |	He/she/it |	Read |
-|Did	 |We/you/they |	Read |
+|Did |We/you/they |	Read |
 
 ## **Prepositions**
 
@@ -285,15 +285,15 @@
 ### **1. Countries and nationalities**
 | Country | Nationality| - | Country | Nationality
 |-|-|-|-|-|
-|The UK | British | - |Thailand | Thai 
-|The US | American| - | Turkey  | Turkish
-| Argetina|Argentinian
-|Brazil| Brazilian
-|Italy|Italian
-|Japan|Japanese
-|Mexico|Mexican
-|Poland|Polish
-|Spain|Spanish
+|The UK | British | - |Thailand | Thai |
+|The US | American| - | Turkey  | Turkish |
+| Argetina|Argentinian |
+|Brazil| Brazilian |
+|Italy|Italian |
+|Japan|Japanese |
+|Mexico|Mexican |
+|Poland|Polish |
+|Spain|Spanish |
 
 
 
@@ -381,6 +381,7 @@
 |country| Zona rural|-| Church | Iglesia |
 |||-| boockshop | Libreria |
 |||-| Library | Biblioteca |
+|||-| city council | Ayuntamiento |
 
 ### **7. Parts of the body**
 
@@ -442,7 +443,7 @@
 | -ache(doler como subfijo)  | headache,stomache, tootache,...| 
 | hurts(doler como adjetivo) | My head hurts,my eyes hurts,...   |
 | sore (doler como adjetivo) | My ears are sore, sore throat, ... |
-| irregular forms	     | My nose is runny, My kneeas keep locking, I cut my finger ...|
+| irregular forms	     | My nose is runny, My knees keep locking, I cut my finger ...|
 
 
 
