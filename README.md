@@ -208,7 +208,7 @@
 |He/she/it|	played|
 |We/you/they  | played|                    
 
-
+```
 |**Verbs present simple endings**||
 |-|-|
 |Add **-s** for most verbs.| **Example:** work-work**s**|
@@ -243,7 +243,7 @@
 |Do	|You |	Read |
 |Does |	He/she/it |	Read |
 |Do	 |We/you/they |	Read |
-
+```
 ## **Prepositions**
 
 | **Simple** | **Double** | **Compound** | **Participle** | **Disguised** | **Phrase** |
@@ -259,42 +259,26 @@
 
 |**IN**|
 |-|
-|- **Months**  :In April
-|- **Seasons** : In the spring, In the summer, ...
-|- **Long periods** : In the ice age,in the present,in the past, ...
-|- **Centuries** : in 20th century
-|- **Decades**: In the 80s
-|- **Years**: In 1990
+|- **Months**  :In April, ...|
+|- **Seasons** : In the spring, In the summer, ...|
+|- **Long periods** : In the ice age,in the present,in the past, ...|
+|- **Centuries** : in 20th century|
+|- **Decades**: In the 80s|
+|- **Years**: In 1990|
 |- **Parts of the day**: In the morning |
 
-ON
+|**ON**|
+|-|
+|**Days:** On Tuesday,on my birthday,on Christmas day,on halloween, ...|
+| **Dates:** On 15th July,on our anniversary, ...|
+|**Parts of a specific day**:On Monday morning, on Friday evening,...|
 
-Days 
-On Tuesday
-On Saturday
-On my birthday
-on Christmas day
-On halloween
-
-Dates
-On 15th July
-on 20th May
-On our anniversary
-
-Parts of a specific day
-On Monday morning
-On Friday evening
-On Saturday Afternoon
-
-AT
-
-Times of the day
-
-Mealtimes
-
-holidays
-
-Expressions
+|**AT**|
+|-|
+|**Times of the day:** at 4 o'clock, at noon, ...| 
+|**Mealtimes:** at lunchtime, at dinnertime, ...|
+|**Holidays:** at Christmas, at the weekend,...|
+|**Expressions:** at present, at the moment, ...|
 
 
 
