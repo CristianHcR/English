@@ -269,7 +269,28 @@
 
 ## **Vocabulary**
 
-### **1. courtesy terms/how i may call you**
+### **1. Countries and nationalities**
+| Country | Nationality| - | Country | Nationality
+|-|-|-|-|-|
+|The UK | British | - |Thailand | Thai 
+|The US | American| - | Turkey  | Turkish
+| Argetina|Argentinian
+|Brazil| Brazilian
+|Italy|Italian
+|Japan|Japanese
+|Mexico|Mexican
+|Poland|Polish
+|Spain|Spanish
+
+
+
+
+
+
+
+
+
+### **2. courtesy terms/how i may call you**
 
 | **Term** | **Definition** |
 |-|-|
@@ -281,7 +302,7 @@
 | Ms + last name | Married woman |
 | Miss + last name | Unmarried woman |
 
-### **2. Family tree**
+### **3. Family tree**
 
 
 | **Word** | **Meaning** | - | **Word** | **Meaning** | 
@@ -301,7 +322,7 @@
 
 
 
-### **3. Parts of the house**
+### **4. Parts of the house**
 
 | **Word** | **Meaning** | - |  **Word** | **Meaning**
 |-|-|-|-|-|
@@ -319,7 +340,7 @@
 
 
 
-### **4. furniture of the house**
+### **5. furniture of the house**
 
 | **Word** | **Meaning** | - | **Word** | **Meaning** |
 |-|-|-|-|-|
@@ -335,7 +356,7 @@
 | Washing machine | Lavadora | - | Tap | Grifo |
 | Towel | Toalla | - |
 
-### **5. Stores and sites**
+### **6. Stores and sites**
 
 | **Word** | **Meaning** | - | **Word** | **Meaning**
 |-|-|-|-|-|
@@ -348,7 +369,7 @@
 |||-| boockshop | Libreria |
 |||-| Library | Biblioteca |
 
-### **6. Parts of the body**
+### **7. Parts of the body**
 
 | **Word** | **Meaning** | - | **Word** | **Meaning** | - | **Word** | **Meaning** |
 |-|-|-|-|-|-|-|-|
@@ -363,7 +384,7 @@
 | Lips | Labios | - | Belly | Abdomen | - | Heel | Talon |
 | Tongue | Lengua | - | Wrist | Muñeca| - |Toe | Dedos del pie|
 
-### **Descriptions of person**
+### **8. Descriptions of person**
 
 | **Word** | **Meaning** |
 |-|-|
@@ -380,7 +401,7 @@
 | Lovely/Charming | Encantador |
 | Nice/Friendly | Amigable |
 
-### **Clothes**
+### **9. Clothes**
 
 | **Word** | **Meaning** | - | **Word** | **Meaning** | - | **Word** | **Meaning**
 |-|-|-|-|-|-|-|-|
