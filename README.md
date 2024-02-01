@@ -24,7 +24,6 @@
 
 > **IMPORTANT:** Present simple is not commonly used to express future actions. For future events, other tenses like the future simple or present continuous may be more appropriate.
 
-
 ### **How identify?**
 
 || **Frecuency Adverbs** |
@@ -33,6 +32,17 @@
 |**Period of time**| Every day, once a month, ... |
 |**Future Clauses**| Until, When, as soon as, ... |
 
+> **Most used frequency adverbs**
+>| 100% | Always |
+>|-|-|
+>| 90% | Usually |
+>| 80% | normally/Generally |
+>| 70% | often/frequently |
+>| 50% | Sometimes |
+>| 30% | Occasionally |
+>| 10% | Seldom |
+>| 5% | Hardly ever/rarely |
+>| 0% | Never |
 
 ### **What is the structure?**
 **Affirmative**
@@ -193,12 +203,12 @@
 
 | Subject |	Verb in past |
 |-|-|
-| I	| read|
-|You|	read|
-|He/she/it|	read|
-|We/you/they  | read|                    
+| I	| played |
+|You|	played|
+|He/she/it|	played|
+|We/you/they  | played|                    
 
-```
+
 |**Verbs present simple endings**||
 |-|-|
 |Add **-s** for most verbs.| **Example:** work-work**s**|
@@ -234,8 +244,7 @@
 |Does |	He/she/it |	Read |
 |Do	 |We/you/they |	Read |
 
-
-### **preposition**
+## **prepositions**
 
 | **Simple** | **Double** | **Compound** | **Participle** | **Disguised** | **Phrase** |
 |-|-|-|-|-|-|
@@ -245,20 +254,9 @@
 | to | | in spite of | | | |
 | of | | alongside | | | |
 
-### **adverbs of frequency**
 
-| 100% | Always |
-|-|-|
-| 90% | Usually |
-| 80% | normally/Generally |
-| 70% | often/frequently |
-| 50% | Sometimes |
-| 30% | Occasionally |
-| 10% | Seldom |
-| 5% | Hardly ever/rarely |
-| 0% | Never |
 
-### **modal verbs**
+## **Modal verbs**
 
 | possibility | necessity | probability | permission | obligatory | comissive | ability | volition |
 |-|-|-|-|-|-|-|-|
@@ -268,8 +266,6 @@
 | | | | might | ought to | | | |
 | | | | shall | should | | | |
 
-
-```
 
 ## **Vocabulary**
 
@@ -287,92 +283,72 @@
 
 ### **Family tree**
 
-| **Word** | **Meaning** |
-|-|-|
-| Parents | Padres |
-| Grandpa | Abuelo |
-| Grandma | Abuela |
-| Uncle | Tio |
-| Aunt | Tia |
-| Cousin | Primos |
-| Nephew | sobrino |
-| Niece | Sobrina |
-| Boyfriend | Novio |
-| Girlfriend | Novia |
-| Dad/Father | Padre |
-|Mum/Mother | Madre |
-| Daughter | Hija|
-| Son | Hijo |
-| Brother | Hermano |
-| Sister | Hermana|
-| Siblings| Hermanos|
+
+| **Word** | **Meaning** | - | **Word** | **Meaning** | 
+|-|-|-|-|-|
+| Parents | Padres | - | Husband | Marido | 
+| Grandpa | Abuelo | - | Girlfriend | Novia |
+| Grandma | Abuela | - |  Dad/Father | Padre |
+| Uncle | Tio | - | Mum/Mother | Madre |
+| Aunt | Tia | - |  Daughter | Hija|
+| Cousin | Primos | - | Son | Hijo |
+| Nephew | sobrino | - | Brother | Hermano |
+| Niece | Sobrina | - | Sister | Hermana|
+| Boyfriend | Novio | - | Siblings| Hermanos|
+| Wife| Esposa/Mujer |-|||
+
+
+
+
 
 ### **Parts of the house**
 
-| **Word** | **Meaning** |
-|-|-|
-| Garage | Garaje |
-| Bathroom | Baño con todo |
-| Toilet | Baño con bater y ya |
-| Kitchen | Cocina |
-| Living-room | Sala de estar |
-| Diving-room | Comedor |
-| Stairs | Ecaleras |
-| Bedroom | Cuarto |
-| Hall | Entrada |
-| Balcony | Balcon |
-| Den | Estudio |
-| Attic | Ático |
-|Lift | Ascensor |
+| **Word** | **Meaning** | - |  **Word** | **Meaning**
+|-|-|-|-|-|
+| Garage | Garaje |- | Den | Estudio |
+| Bathroom | Baño con todo | - |  Attic | Ático |
+| Toilet | Baño con bater y ya | - | Lift | Ascensor |
+| Kitchen | Cocina | - |
+| Living-room | Sala de estar | - |
+| Diving-room | Comedor | - |
+| Stairs | Ecaleras | - |
+| Bedroom | Cuarto | - |
+| Hall | Entrada | - |
+| Balcony | Balcon | - |
+
+
+
 
 ### **furniture of the house**
 
-| **Word** | **Meaning** |
-|-|-|
-| Oven | Horno |
-| Chimney | Chimenea |
-| Bedside-table | Mesita de noche |
-| Bed | Cama |
-| Lamp | Lampara |
-| Pillow | Almohada|
-| Cupboard | Armario |
-| Wardrobe | Armario ropa |
-| Desk | Escritorio |
-| Washing machine | Lavadora |
-| Carpet | Moqueta |
-| Rog | Alfombra |
-| Mat | Alfombrilla |
-| Countertop | Encimera |
-| Armchair | Silla con reposabrazo/Sillon |
-| Chair | Silla |
-| Bookcase | Libreria |
-| Shelf | Estanteria |
-| Sink | Fregadero |
-| Tap | Grifo |
-| Towel | Toalla |
+| **Word** | **Meaning** | - | **Word** | **Meaning** |
+|-|-|-|-|-|
+| Oven | Horno | - | Carpet | Moqueta |
+| Chimney | Chimenea | - | Rog | Alfombra |
+| Bedside-table | Mesita de noche | - | Mat | Alfombrilla |
+| Bed | Cama | - | Countertop | Encimera |
+| Lamp | Lampara | - | Armchair | Silla con reposabrazo/Sillon |
+| Pillow | Almohada| - | Chair | Silla |
+| Cupboard | Armario | - | Bookcase | Libreria |
+| Wardrobe | Armario ropa | - | Shelf | Estanteria |
+| Desk | Escritorio | - | Sink | Fregadero |
+| Washing machine | Lavadora | - | Tap | Grifo |
+| Towel | Toalla | - |
 
 ### **Stores and sites**
 
-| **Word** | **Meaning** |
-|-|-|
-| Neigborhood | Vecindario |
-| City | Ciudad |
-| Town | Municipio|
-| Block of flats/...| edficio de pisos |
-| Flats | Pisos |
+| **Word** | **Meaning** | - | **Word** | **Meaning**
+|-|-|-|-|-|
+| Neigborhood | Vecindario |- | Playground | Parque de niños |
+| City | Ciudad |-| Post office | Correo |
+| Town | Municipio|- | Train station | Estacion de tren |
+| Block of flats/...| edficio de pisos |- | Gym | Gimnasio |
+| Flats | Pisos |- | Pool | Piscina |
+|||-| Church | Iglesia |
+|||-| boockshop | Libreria |
+|||-| Library | Biblioteca |
 
-| Word | Meaning |
-|-|-|
-| Playground | Parque de niños |
-| Post office | Correo |
-| Train station | Estacion de tren |
-| Gym | Gimnasio |
-| Pool | Piscina |
-| Church | Iglesia |
-| boockshop | Libreria |
-| Library | Biblioteca |
-
-### **part of the body**
+### **parts of the body**
 
 | **Word** | **Meaning** |
 |-|-|
@@ -457,4 +433,5 @@
 | Underwear | Ropa interior |
 | Raincoat | Impermeable |
 | Bathrobe | Bata de baño |
+
 
