@@ -188,7 +188,7 @@
 
 ### **How identify?**
 
-|| **Frecuency Adverbs** |
+|| **Frecuency Adverbs in the past** |
 |------|-----|
 | **How often?**| Always, usually,Sometimes, often, never, ... |
 |**Period of time**| Every day, once a month, ... |
@@ -198,7 +198,7 @@
 ### **What is the structure?**
 **Affirmative**
 
-- **Structure:** (subj+ (verb in past) + ...)
+- **Structure:** (subj+ (**verb in past**) + ...)
 
 
 | Subject |	Verb in past |
@@ -206,44 +206,30 @@
 | I	| played |
 |You|	played|
 |He/she/it|	played|
-|We/you/they  | played|                    
-
-```
-|**Verbs present simple endings**||
-|-|-|
-|Add **-s** for most verbs.| **Example:** work-work**s**|
-|Add **-es** for words that end in **ch**, **-s**, **-sh**, **-x** or **z**. | **Example:** watch-watch**es**. | 
-|If the verbs end in consonant **+y**, change the y to i and add **-es**. | **Example:** study-studi**es**|
-|If the verb ends u vowel **+y**, don't change the y, add **-s**.|**Example:** play-play**s**|
-
-|| **Irregular forms**|
-|-|-|
-| **Examples**	 | Do-do**es**, go-go**es**, be-am-is-are,have-**has** |
+|We/you/they  | played|                 
 
 **Negative**
 
-- **Structure:** (subj+ **don't** + verb + ...)
-- **Third person singular(he/she/it)**: (subj + **doesn't** +  verb + ...)
+- **Structure:** (subj+ aux(**didn't**)+ verb + ...)
 
 | Subject |	Auxiliar |	Verb|
 |-|-|-|
-|I |	Don’t |	Read |
-|You |	Don’t |	Read |
-|He/she/it |	Doesn’t |	Read |
-|We/you/they |	Don’t |	Read |
+|I |	Didn’t |	Read |
+|You |	Didn’t |	Read |
+|He/she/it |	Didn’t |	Read |
+|We/you/they |	Didn’t |	Read |
 
 **Question**
 
-- **Structure:** (**Do** +subj+ verb + ...) 
-- **Third person singular(he/she/it)**: (**Does**+subj  +   verb  + ...?)
+- **Structure:** (**Did** +subj+ verb + ...) 
 
 | Auxiliar|	Subject| 	Verb|
 |-|-|-|
-|Do	|I |	Read |
-|Do	|You |	Read |
-|Does |	He/she/it |	Read |
-|Do	 |We/you/they |	Read |
-```
+|Did	|I |	Read |
+|Did |You |	Read |
+|Did |	He/she/it |	Read |
+|Did	 |We/you/they |	Read |
+
 ## **Prepositions**
 
 | **Simple** | **Double** | **Compound** | **Participle** | **Disguised** | **Phrase** |
