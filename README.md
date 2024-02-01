@@ -244,7 +244,7 @@
 |Does |	He/she/it |	Read |
 |Do	 |We/you/they |	Read |
 
-## **prepositions**
+## **Prepositions**
 
 | **Simple** | **Double** | **Compound** | **Participle** | **Disguised** | **Phrase** |
 |-|-|-|-|-|-|
@@ -269,7 +269,7 @@
 
 ## **Vocabulary**
 
-### **courtesy terms/how i may call you**
+### **1. courtesy terms/how i may call you**
 
 | **Term** | **Definition** |
 |-|-|
@@ -281,7 +281,7 @@
 | Ms + last name | Married woman |
 | Miss + last name | Unmarried woman |
 
-### **Family tree**
+### **2. Family tree**
 
 
 | **Word** | **Meaning** | - | **Word** | **Meaning** | 
@@ -301,7 +301,7 @@
 
 
 
-### **Parts of the house**
+### **3. Parts of the house**
 
 | **Word** | **Meaning** | - |  **Word** | **Meaning**
 |-|-|-|-|-|
@@ -319,7 +319,7 @@
 
 
 
-### **furniture of the house**
+### **4. furniture of the house**
 
 | **Word** | **Meaning** | - | **Word** | **Meaning** |
 |-|-|-|-|-|
@@ -335,7 +335,7 @@
 | Washing machine | Lavadora | - | Tap | Grifo |
 | Towel | Toalla | - |
 
-### **Stores and sites**
+### **5. Stores and sites**
 
 | **Word** | **Meaning** | - | **Word** | **Meaning**
 |-|-|-|-|-|
@@ -348,40 +348,20 @@
 |||-| boockshop | Libreria |
 |||-| Library | Biblioteca |
 
-### **parts of the body**
+### **6. Parts of the body**
 
-| **Word** | **Meaning** |
-|-|-|
-| Hair | Pelo |
-| Head | Cabeza |
-| Forehead | Frente |
-| Ear | Orejas |
-| Eyes | Ojos |
-| Nose | Nariz |
-| Cheeks | Mejilla |
-| Mouth | Boca |
-| Lips | Labios |
-| Tongue | Lengua |
-| teeth/tooth | Diente/es |
-| Chin | Menton |
-| Neck | Cuello |
-| Shoulder | Hombro |
-| Arm | Brazo |
-| Forearm | Antebrazo |
-| Back | Espalda |
-| Elbow | Codo |
-| Belly | Abdomen |
-| Wrist | Muñeca|
-| Hand | Mano |
-| Thumb| Pulgar |
-| Finger | Dedos |
-| Legs | Piernas |
-| Knee | Rodilla |
-| Calf-sheen | Gemelo |
-| Uncle | Tobillo |
-|Feet/Foot | Pie/es |
-| Heel | Talon |
-|Toe | Dedos del pie|
+| **Word** | **Meaning** | - | **Word** | **Meaning** | - | **Word** | **Meaning** |
+|-|-|-|-|-|-|-|-|
+| Hair | Pelo | - | teeth/tooth | Diente/es | - | Hand | Mano |
+| Head | Cabeza | - | Chin | Menton | - | Thumb| Pulgar |
+| Forehead | Frente | - | Neck | Cuello | - | Finger | Dedos |
+| Ear | Orejas | - | Shoulder | Hombro | - | Legs | Piernas |
+| Eyes | Ojos | - | Arm | Brazo | - | Knee | Rodilla |
+| Nose | Nariz | - | Forearm | Antebrazo | - | Calf-sheen | Gemelo |
+| Cheeks | Mejilla | - | Back | Espalda | - | Unkle | Tobillo |
+| Mouth | Boca | - | Elbow | Codo | - |Feet/Foot | Pie/es |
+| Lips | Labios | - | Belly | Abdomen | - | Heel | Talon |
+| Tongue | Lengua | - | Wrist | Muñeca| - |Toe | Dedos del pie|
 
 ### **Descriptions of person**
 
@@ -402,36 +382,25 @@
 
 ### **Clothes**
 
-| **Word** | **Meaning** |
-|-|-|
-| T-shirt | Camiseta|
-| Shirt | Camisa |
-| Blouse | Blusa |
-| Sweater | Suéter |
-| Jacket  | Chaqueta |
-| Coat | Abrigo |
-| Jeans | Vaqueros |
-| Trousers | Pantalones |
-| Shorts | Pantalones cortos |
-| Skirt  | Falda |
-| Dress | Vestido |
-| Suit | Traje |
-| Tie | Corbata |
-| Scarf | Bufanda |
-| Hat | Sombrero |
-| Cap | Gorra |
-| Gloves | Guantes |
-| Socks | Calcetines |
-| Shoes | Zapatos |
-| Sneakers | Zapatillas |
-| Sandals | Sandalias |
-| Boots | Botas |
-| Hoodie | Sudadera con capucha |
-| Blazer | Americana |
-| Pajamas | Pijama |
-| Swimsuit | Traje de baño |
-| Underwear | Ropa interior |
-| Raincoat | Impermeable |
-| Bathrobe | Bata de baño |
+| **Word** | **Meaning** | - | **Word** | **Meaning** | - | **Word** | **Meaning**
+|-|-|-|-|-|-|-|-|
+| T-shirt | Camiseta|- | Dress | Vestido | - | Sandals | Sandalias |
+| Shirt | Camisa | - | Suit | Traje | - | Boots | Botas |
+| Blouse | Blusa |- | Tie | Corbata | - | Hoodie | Sudadera con capucha |
+| Sweater | Suéter |- | Scarf | Bufanda | - | Blazer | Americana |
+| Jacket  | Chaqueta | - | Hat | Sombrero | - | Pajamas | Pijama |
+| Coat | Abrigo | - | Cap | Gorra | - | Swimsuit | Traje de baño |
+| Jeans | Vaqueros | - | Gloves | Guantes | - | Underwear | Ropa interior |
+| Trousers | Pantalones | - | Socks | Calcetines | - | Raincoat | Impermeable |
+| Shorts | Pantalones cortos | - | Shoes | Zapatos | - | Bathrobe | Bata de baño |
+| Skirt  | Falda | - | Sneakers | Zapatillas |
+
+
+
+
+
+
+
+
 
 
