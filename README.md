@@ -392,7 +392,7 @@
 | Town | Municipio|- | Train station | Estacion de tren |
 | Block of flats/...| edficio de pisos |- | Gym | Gimnasio |
 | Flats | Pisos |- | Pool | Piscina |
-|||-| Church | Iglesia |
+|country| Zona rural|-| Church | Iglesia |
 |||-| boockshop | Libreria |
 |||-| Library | Biblioteca |
 
