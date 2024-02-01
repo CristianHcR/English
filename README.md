@@ -256,7 +256,7 @@
 |**ON**|
 |-|
 |**Days:** On Tuesday,on my birthday,on Christmas day,on halloween, ...|
-| **Dates:** On 15th July,on our anniversary, ...|
+| **Dates:** On July 15th,on our anniversary, ...|
 |**Parts of a specific day**:On Monday morning, on Friday evening,...|
 
 |**AT**|
