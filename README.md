@@ -381,7 +381,7 @@
 |country| Zona rural|-| Church | Iglesia |
 |||-| boockshop | Libreria |
 |||-| Library | Biblioteca |
-|||-| city council | Ayuntamiento |
+|||-| town hall | Ayuntamiento |
 
 ### **7. Parts of the body**
 
