@@ -238,7 +238,7 @@
 
 1. **Actions begin in past and continue in the present**
 
-    - Example: I have loved in this City.
+    - Example: I have loved in this City for 5  years.
 
 2. **Life expirience** 
 
