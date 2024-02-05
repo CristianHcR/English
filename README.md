@@ -208,12 +208,12 @@
 |He/she/it|	played|
 |We/you/they  | played|                 
 
-> **IMPORTANT**: There is a multitude of past tense verbs that are irregular. Here, we will present some of them ==> <a href="Verbs/README.md" target="_blank">**VERBS**</a>
+> **IMPORTANT**: There is a multitude of past tense verbs that are irregular and in past we will use the **second** column. Here, we will present some of them ==> <a href="Verbs/README.md" target="_blank">**VERBS**</a>
 
 
 **Negative**
 
-- **Structure:** (subj+ aux(**didn't**)+ verb + ...)
+- **Structure:** (subj+ aux(**didn't**)+ verb(**past**) + ...)
 
 | Subject |	Auxiliar |	Verb|
 |-|-|-|
@@ -224,7 +224,7 @@
 
 **Question**
 
-- **Structure:** (**Did** +subj+ verb + ...) 
+- **Structure:** (**Did** +subj+ verb(**past**) + ...) 
 
 | Auxiliar|	Subject| 	Verb|
 |-|-|-|
@@ -232,6 +232,72 @@
 |Did |You |	Read |
 |Did |	He/she/it |	Read |
 |Did |We/you/they |	Read |
+
+## **Present perfect simple**
+### **When use it?**
+
+1. **Actions begin in past and continue in the present**
+
+    - Example: I have loved in this City.
+
+2. **Life expirience** 
+
+    - Example: She has visited Europe several times.
+
+3. **Recent events**
+
+    - Example: They have just finished their homework.
+
+4. **Present Results** 
+
+    - Examples: I've lost my keys.
+
+
+### **How identify?**
+
+|| **Frecuency Adverbs** |
+|------|-----|
+| **How Long?**| Since 1999, since July,for ten years, for three days |
+|**Negative Adverbs Frequecy**| never,ever, ... |
+
+### **What is the structure?**
+**Affirmative**
+
+- **Structure:** (subj+ **have** + verb(**participle**) + ...)
+- **Third person singular(he/she/it)**: (subj + **has** + verb(**participle**) **+s/es** + ...)
+
+| Subject | Aux |	Verb(**pasticiple**) |
+|-|-|-|
+| I	| have | known|
+|You| have|	been|
+|He/she/it|	has | lived|
+|We/you/they | have | read|                    
+
+> **IMPORTANT**: There is a multitude of past tense verbs that are irregular and in past we will use the **third** column. Here, we will present some of them ==> <a href="Verbs/README.md" target="_blank">**VERBS**</a>
+
+**Negative**
+
+- **Structure:** (subj+ **haven't** + verb(participle) + ...)
+- **Third person singular(he/she/it)**: (subj + **hasn't** +  verb(participle) + ...)
+
+| Subject |	Auxiliar |	Verb|
+|-|-|-|
+|I |	haven’t |	lost |
+|You |	haven’t |	begun |
+|He/she/it |	hasn’t |	blown |
+|We/you/they |	haven’t |	felt |
+
+**Question**
+
+- **Structure:** (**Have** +subj+ verb(participle) + ...) 
+- **Third person singular(he/she/it)**: (**Has**+subj  +   verb(participle)  + ...?)
+
+| Auxiliar|	Subject| 	Verb|
+|-|-|-|
+|have	|I |	Bought |
+| have	|You |	come |
+|Has |	He/she/it |	built |
+|Have	 |We/you/they |	chosen |
 
 ## **Prepositions**
 

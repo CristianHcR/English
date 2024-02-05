@@ -15,6 +15,6 @@
 | **9** | buy | bought | bought | comprar | **22** | find | found | found | encontrar | **35** | hurt | hurt | hurt | dolor | **48** | put | put | put | poner/colocar | **61** | sleep | slept | slept | dormir | **74** | wake | woke | woken | despertar |
 | **10** | catch | caught | caught | atrapar | **23** | fly | flew | flown | volar | **36** | keep | kept | kept | mantener | **49** | read | read | read | leer | **62** | smell | smelt | smelt | oler | **75** | wear | wore | worn | llevar puesto/vestir |
 | **11** | choose | chose | chosen | elegir | **24** | forget | forgot | forgotten | olvidar | **37** | know | knew | known | saber | **50** | ride | rode | ridden | montar | **63** | speak | spoke | spoken | hablar | **76** | win | won | won | ganar |
-| **12** | come | came | comen | llegar | **25** | freeze | froze | frozen | congelar | **38** | learn | learned/learnt | learned/learnt | aprender | **51** | ring | rang | rung | llamar | **64** | spend | spent | spent | gastar | **77** | write | wrote | written | escribir |
+| **12** | come | came | come | llegar | **25** | freeze | froze | frozen | congelar | **38** | learn | learned/learnt | learned/learnt | aprender | **51** | ring | rang | rung | llamar | **64** | spend | spent | spent | gastar | **77** | write | wrote | written | escribir |
 | **13** | cost | cost | cost | coste | **26** | get | got | got | conseguir | **39** | leave | left | left | salir/irse | **52** | say | said | said | ddecir | **65** | spill | spilt | spilt | derramar |  |  |  |  |
 
