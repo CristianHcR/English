@@ -208,6 +208,9 @@
 |He/she/it|	played|
 |We/you/they  | played|                 
 
+> **IMPORTANT**: There is a multitude of past tense verbs that are irregular. Here, we will present some of them ==> <a href="Verbs/README.md" target="_blank">**VERBS**</a>
+
+
 **Negative**
 
 - **Structure:** (subj+ aux(**didn't**)+ verb + ...)
