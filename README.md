@@ -301,6 +301,63 @@
 |Has |	He/she/it |	built |
 |Have	 |We/you/they |	chosen |
 
+## **Future Simple** 
+### **When we use it?** 
+
+1. **Decissions** 
+  	- Example: I am hungry, I will make lunch.
+2. **Predictions** 
+	- Example: He thinks he will win the race.
+3. **Promises** 
+	- Example: I will love you forever. 
+
+### **Indicator**
+
+| | Time  expressions|
+|-|- |-|
+|**Time in the future** | next week, "" month, "" year... |    
+|**Time in the near future** | later, this afternoon, soon, ... |   
+| **Prepositions of time** | in, on, at... | 
+
+
+### **What is the structure?**
+**Affirmative**
+
+- **Structure:** (subj+ aux(**will**)**) + (verb) + ...)
+
+| Subject |aux(**will**)|Verb|
+|-|-|-|
+| I	| will | read|
+|You| will|read|
+|He/she/it| will |read |
+|We/you/they | will | read|                    
+
+**Negative**
+
+- **Structure:** (subj+ aux(**will**) + (verb) + ...)
+
+
+| Subject |aux(**will**)| Verb |
+|-|-|-|
+| I	| will not/won't | read|
+|You| will not/won't	|read|
+|He/she/it| will not/won't |	read |
+|We/you/they | will not/won't | read|   
+
+**Question**
+
+- **Structure:** (aux(**will**) +subj+ (verb) + ...) 
+
+
+| Auxiliar|	Subject| 	Verb|
+|-|-|-|
+|Will	|I |	read |
+|Will	|You |	read |
+|Will |	He/she/it |	read |
+|Will	|We/you/they |	read |
+
+
+
 ## **Prepositions**
 
 | **Simple** | **Double** | **Compound** | **Participle** | **Disguised** | **Phrase** |
