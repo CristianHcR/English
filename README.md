@@ -323,7 +323,7 @@
 ### **What is the structure?**
 **Affirmative**
 
-- **Structure:** (subj+ aux(**will**)**) + (verb) + ...)
+- **Structure:** (subj+ aux(**will**)) + (verb) + ...)
 
 | Subject |aux(**will**)|Verb|
 |-|-|-|
