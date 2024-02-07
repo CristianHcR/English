@@ -295,7 +295,7 @@
 - **Third person singular(he/she/it)**: (**Has**+subj  +   verb(participle)  + ...?)
 
 | Auxiliar|	Subject| 	Verb|
-|-|-|-|
+|-|-|
 |have	|I |	Bought |
 | have	|You |	come |
 |Has |	He/she/it |	built |
@@ -314,7 +314,7 @@
 ### **Indicator**
 
 | | Time  expressions|
-|-|- |-|
+|-|-|
 |**Time in the future** | next week, "" month, "" year... |    
 |**Time in the near future** | later, this afternoon, soon, ... |   
 | **Prepositions of time** | in, on, at... | 
