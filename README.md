@@ -12,7 +12,7 @@
 
 1. **Routines/Repetitive Actions**
 
-    - Example: I wake ip at 7 every morning.
+    - Example: I wake up at 7 every morning.
 
 2. **Facts** 
 
@@ -298,7 +298,7 @@
 - **Third person singular(he/she/it)**: (**Has**+subj  +   verb(participle)  + ...?)
 
 | Auxiliar|	Subject| 	Verb|
-|-|-|
+|-|-|-|
 |have	|I |	Bought |
 | have	|You |	come |
 |Has |	He/she/it |	built |
@@ -489,7 +489,7 @@
 | **Word** | **Meaning** | - | **Word** | **Meaning** |
 |-|-|-|-|-|
 | Oven | Horno | - | Carpet | Moqueta |
-| Chimney | Chimenea | - | Rog | Alfombra |
+| Chimeney | Chimenea | - | Rog | Alfombra |
 | Bedside-table | Mesita de noche | - | Mat | Alfombrilla |
 | Bed | Cama | - | Countertop | Encimera |
 | Lamp | Lampara | - | Armchair | Silla con reposabrazo/Sillon |
