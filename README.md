@@ -460,7 +460,7 @@
 | Nephew | sobrino | - | Brother | Hermano |
 | Niece | Sobrina | - | Sister | Hermana|
 | Boyfriend | Novio | - | Siblings| Hermanos|
-| Wife| Esposa/Mujer |-|||
+| Wife| Esposa/Mujer |-| Brother/Sister in law | cuñado/a|
 
 
 
