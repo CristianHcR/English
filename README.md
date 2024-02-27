@@ -395,7 +395,7 @@
 |**Parts of a specific day**:On Monday morning, on Friday evening,...|
 
 - **AT**
-- 
+
 | **Time**|**Location**|
 |-|-|
 |**Times of the day:** at 4 o'clock, at noon, ...| **Adress**: 734 Oxford,... |
