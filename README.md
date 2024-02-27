@@ -374,26 +374,32 @@
 **Prepotitions of time**
 
 
-|**IN**|
-|-|
-|- **Months**  :In April, ...|
-|- **Seasons** : In the spring, In the summer, ...|
-|- **Long periods** : In the ice age,in the present,in the past, ...|
+- **IN**
+
+| **Time**|**Location**|
+|-|-|
+|- **Months**  :In April, ...| **Country**: England, Spain, ... |
+|- **Seasons** : In the spring, In the summer, ...| **City**: London, Madrid,...|
+|- **Long periods** : In the ice age,in the present,in the past, ...| **Neigborhood:** Chinatown,...|
 |- **Centuries** : in 20th century|
 |- **Decades**: In the 80s|
 |- **Years**: In 1990|
 |- **Parts of the day**: In the morning |
 
-|**ON**|
-|-|
-|**Days:** On Tuesday,on my birthday,on Christmas day,on halloween, ...|
-| **Dates:** On July 15th,on our anniversary, ...|
+
+- **ON**
+| **Time**|**Location**|
+|-|-|
+|**Days:** On Tuesday,on my birthday,on Christmas day,on halloween, ...|**Street:** Oxford Street, ... |
+| **Dates:** On July 15th,on our anniversary, ...| **Avenues**: The Corner,... |
 |**Parts of a specific day**:On Monday morning, on Friday evening,...|
 
-|**AT**|
-|-|
-|**Times of the day:** at 4 o'clock, at noon, ...| 
-|**Mealtimes:** at lunchtime, at dinnertime, ...|
+- **AT**
+- 
+| **Time**|**Location**|
+|-|-|
+|**Times of the day:** at 4 o'clock, at noon, ...| **Adress**: 734 Oxford,... |
+|**Mealtimes:** at lunchtime, at dinnertime, ...| **Specific Location**: The Store |
 |**Holidays:** at Christmas, at the weekend,...|
 |**Expressions:** at present, at the moment, ...|
 
