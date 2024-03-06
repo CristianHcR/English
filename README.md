@@ -665,8 +665,37 @@ Most common topics.
 
 **thank you/congratulations/good luck**
 
+thanks
 - I'm writing to thank you 
+- it was so kind of you to invite me to stay with you.
+- I really appreciated all your help/advice 
 
+Congratulations
+- Congratulations on passin your exams / your excellent exam results!
+
+- I wish you good luck/ Good luck in/ with your exams/your driving test/your interview
+
+Good luck
+- Don't worry, I'm sure you'll do well/pass.
+- Do be on time, won't you, abd don't forget to
+
+**Making suggestions and recommendations**
+
+- Why don't you ..?/Maybe you could ...?/ How about ...?
+- You can't leave New York without (... doing sth)
+- I'm sure you will enjoy(... doing sth). If you like, we can..
+- Do visit .../Don't forget to ...
+
+### **Closing**
+
+- **Give a  reason why you're ending the letter**: Anyway, I must go and get on with my work!/ I guess It's time I got on with that studying I've been avoiding.
+
+- **Send greetings and/or make reference for future contact:** Give my love/regards to.../ Say hello to.../Anyway,don't forget to let me know the dates of the party./I'll try and phone you at the weekeng to check the times. / We must try and meet up soon.
+
+- **Closing Statement** such as Love, Losts of Love, All the best, take care, Best wishes,...
+
+- **Signing off**: Your first name.
+ 
 https://www.rubenvalero.com/learningenglish/b2-first-fce/writing-fce-b2/fce-informal-letter-or-email/
 
 https://academia.idiomium.es/tipos-de-writing-y-sus-temas/
