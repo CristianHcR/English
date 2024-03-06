@@ -7,6 +7,9 @@
 - <a href="https://learnenglish.britishcouncil.org/skills/listening">**British Council**</a>
 
 
+
+
+# Grammar
 ## **Present Simple**
 ### **When use it?**
 
@@ -418,9 +421,9 @@
 | | | | shall | should | | | |
 
 
-## **Vocabulary**
+# **Vocabulary**
 
-### **1. Countries and nationalities**
+## **1. Countries and nationalities**
 | Country | Nationality| - | Country | Nationality
 |-|-|-|-|-|
 |The UK | British | - |Thailand | Thai |
@@ -583,6 +586,96 @@
 | sore (doler como adjetivo) | My ears are sore, sore throat, ... |
 | irregular forms	     | My nose is runny, My knees keep locking, I cut my finger ...|
 
+# Writing
+
+Emails y letter, story, essay/article/review, report/proposal
+
+## Email & Letters.
+Most common topics.
+
+**Informal Email** 
+
+- Visit of a friend.
+- plan something to do
+
+**Connectors**
+
+**Salutation or Greeting**
+
+- Dear Ben, Hi Ben 
+
+### **Body**
+
+**Openings:**
+
+- how are you?/ How have the family been?/ I hope well
+
+- Thank you/Many Thanks for you (recent/last) letter/postcard/email.
+- It was good/nice/great to hear from you again.
+
+- I'm sorry I haven't written/hvent't been in touch for such a long time.
+
+- it's ages since I've heard from you. I'm hope you're well/you and your family are well.
+
+- How are things/ how's it going
+
+**Useful phrases:**
+
+**Referring to news**
+
+- Great news about ... Glat to hear that... Sorry to hear about...
+
+**Giving news**
+
+- Listen, did I tell about...? You'll never believe what...
+
+- Oh, and another thing... This is just to let you know that...
+
+- I thought you might be interested to hear about/know that
+
+- By the way, have you heard about/ did you know that ..? 
+
+**Apologies**
+
+- I'm writing to apologise for missing your party but I'm afraid I was with flu.
+
+- I'm really sorry that I forgot to send you a birthday card but I was busy with my new job. 
+
+**Invitations**
+
+- I'm/We're having a party on Friday 19th and I/we hope you'll be able to come. 
+
+- Would you like to come/ go to see 'Room With a View' with me at the weekend. 
+
+- I was wondering if you'd like to go to the theatre/come on holiday with us.
+
+- Thank you very much for you invitation. I'd love to come. 
+
+- thank you for asking/invinting me to ... but I'm afraid I won't be able to...
+
+**Request**
+
+- I'm writing to ask for your help/you(If you could do me) a favour.
+
+- I wonder if/ I was wondering if you could help me / do me a favour
+
+- I hope you don't ming me asking but could you(possibly) ..?
+
+- I'd be very/really/terribly grateful if you could...
+
+**thank you/congratulations/good luck**
+
+- I'm writing to thank you 
+
+https://www.rubenvalero.com/learningenglish/b2-first-fce/writing-fce-b2/fce-informal-letter-or-email/
+
+**Formal Email**
+
+- answer to a job offer.
+- formal complaint.
+- formal apology.
+- request information. 
+- apply for a place in school,a course...
 
 
 
