@@ -669,6 +669,8 @@ Most common topics.
 
 https://www.rubenvalero.com/learningenglish/b2-first-fce/writing-fce-b2/fce-informal-letter-or-email/
 
+https://academia.idiomium.es/tipos-de-writing-y-sus-temas/
+
 **Formal Email**
 
 - answer to a job offer.
